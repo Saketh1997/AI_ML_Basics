@@ -1,1 +1,0 @@
-This is the beginning of a tutorial for AI & ML basics.
